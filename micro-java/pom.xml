@@ -141,8 +141,8 @@
                   </systemPropertyVariables>
                 </configuration>
               </execution>
-	    </executions>
-         `</plugin>
+            </executions>
+          </plugin>
         </plugins>
       </build>
       <properties>
